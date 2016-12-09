@@ -1,0 +1,8 @@
+User: Kostya, Phone: +7 932 849-12-61, Date and time of visit: 5.12.16 15:30
+User: Tom, Phone: 341464, Date and time of visit: 6.12.16 19:40
+User: Gus, Phone: 232372890, Date and time of visit: 1.01.17 14:10
+User: Gus, Phone: 232372890, Date and time of visit: 1.01.17 14:10
+User: Kos, Phone: 30180, Date and time of visit: 5.12 12:20, Master: 
+User: fds, Phone: vgfd, Date and time of visit: fds, Master: {"username"=>"fds", "phone"=>"vgfd", "datetime"=>"fds"}
+User: Rachel, Phone: 32488834, Date and time of visit: 10.02.16 10:10, Master: Gus
+User: Jane, Phone: 30191, Date and time of visit: 19.01.1991, Master: Jessie

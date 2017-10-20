@@ -43,9 +43,9 @@ post '/contacts' do
 	erb :contacts
 end
 
-get '/login/form' do
-  erb :login_form
-end
+#get '/login/form' do
+ # erb :login_form
+#end
 
 post '/login/attempt' do
   @user_name = params[:username]
